@@ -1,0 +1,26 @@
+import torch
+from transformers import AutoTokenizer, AutoModel
+
+# Check if CUDA is available and set device
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+# Define your tokenizer and model
+tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
+model = AutoModel.from_pretrained("bert-base-uncased")
+model = model.to(device)
+
+# Wrap the model with DataParallel
+model = torch.nn.DataParallel(model)
+
+# Example input
+input_text = "Hello, how are you?"
+
+# Tokenize input text
+input_ids = tokenizer.encode(input_text, add_special_tokens=True)
+input_ids = torch.tensor([input_ids]).to(device)
+
+# Perform inference
+with torch.no_grad():
+    outputs = model(input_ids)
+
+# Process the outputs as needed
