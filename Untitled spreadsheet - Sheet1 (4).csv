@@ -1,0 +1,82 @@
+Date,KOL_ID,KOL_NAME,Activity,Type
+1/1/2023,1,Micheal Smith,"Shared educational posts about skin cancer prevention,treatment options and patient stories on linkedin",Social Media
+2/2/2023,1,Micheal Smith,Promoted events or webinars related to skin cancer on linkedin,Social Media
+3/3/2023,1,Micheal Smith,Participated in clinical trials to evaluate the effectivenessof experimental treatments and contribute to better medical community,Scientific
+4/5/2023,2,Johnson charles,Conducted clinical trials on new treatment approches related to skin cancer,Scientific
+4/6/2023,2,Johnson charles,Presented findings at conferences and staying updated on the latest advancements in skin cancer therapies,Scientific
+4/7/2023,2,Johnson charles,Developing personalised treatment plans for patients,Medical
+3/2/2023,3,Patrick Simmons,Diagnosed and staged skin cancer for one patient,Medical
+4/3/2023,3,Patrick Simmons,"Performed surgical procedures to remove cancerous lesions,adminstered chemotherpies or targeted therapies",Medical
+5/4/2023,3,Patrick Simmons,Monitored patinent's progress through regular checkups and provided supportive care to manage side effects and improve quality of life,Medical
+12/3/2023,4,Michelle Fox,"Sharing content about various types of advancements in blood cancer like chemotherapy,imminotherapy or stem cell transplant",Social Media
+13/4/2023,4,Michelle Fox,"Conducted research to better understand the underlying cause of different blood cancers,such as targeted therapy or precision medicine",Scientific
+15/5/2023,4,Michelle Fox,"Collaborated closely with hemathopathologist,radiologist and other specialist to ensure comprehensive care",Medical
+1/6/2023,5,Michael stark,Higlighted patient success stories on twitter,Social Media
+2/7/2023,5,Michael stark,"Participated in online discussion with medical professional,engage with patient support groups",Social Media
+3/8/2023,5,Michael stark,Presented research at knowned medical conference to contribute to advancement of knowledge in field of blood cancer,Scientific
+1/3/2023,6,Dr. Rachel Dunphy,"Shared informative posts about multiple myleoma,its symptoms,diagnostic approaches and treatment options such as chemotherapy,stem cell and novel therapies on linkedin",Social Media
+2/4/2023,6,Dr. Rachel Dunphy,"Discussed latest research findings,clinical trial and advancement in myleoma treatment on linkedin",Social Media
+4/5/2023,6,Dr. Rachel Dunphy,"Engaged with patient support groups,raising awareness about myleoma related events and providing insights into survivor stories",Social Media
+1/2/2023,7,Dr. Joseph Matthews,Created personalised treatment plan for one patient,Medical
+2/3/2023,7,Dr. Joseph Matthews,"Educated one patient about their condition,treatment options,potential outcomes and supportive care measures",Medical
+3/3/2023,7,Dr. Joseph Matthews,Presented research findings in scientific journal and presented research at conference to contribute to scientific community understanding,Social Media
+5/2/2023,8,Dr. Chris Smith,Raised awareness about myleoma-related events or support groups and provided insights into survivorship could be a part of social media presence,Social Media
+5/3/2023,8,Dr. Chris Smith,Conducted research that bridges the gap between laboratory findings and clinical applications,Scientific
+6/4/2023,8,Dr. Chris Smith,Investigated the impact of multiple myleoma on bone health and developed strategies to develop and manage bone-related complications,Scientific
+6/1/2023,9,Percy Julian,Accurately diagnosed the specific type and stage of blood cancer through combination of clinical assesments,Medical
+5/2/2023,9,Percy Julian,"Developed individualised plan based on patient diagnosis,overall health and specific disease",Medical
+7/3/2023,9,Percy Julian,Administered chemotherapy and targeted therapies to eliminate or control cancer cells,Medical
+15/2/2023,10,William Brown,Conducted research to better understand biology of blood cancer,Scientific
+19/3/2023,10,William Brown,Developed new treatment approaches,Scientific
+5/4/2023,10,William Brown,Analysed patient data and collaborate with other researchers to advance the knowldege of disease,Scientific
+24/3/2023,11,Jenna Jackson,"Raised awareness about brain cancer,treatment options available and promoted fundraiser efforts for research",Social Media
+24/4/2023,11,Jenna Jackson,"Hosted live Q and A sessions,shared patient success stories",Social Media
+24/5/2023,11,Jenna Jackson,Participated in online discussion to educate and connect with broader audience,Social Media
+30/2/2023,12,Kim Kang Ho,"Shared educational graphics,videos explaining different aspects of lung cancer and highlighting patient stories to offer hope and inspiration on twitter",Social Media
+30/3/2023,12,Kim Kang Ho,Participated in twitter chats to answer question from public and provide reliable information,Social Media
+25/4/2023,12,Kim Kang Ho,"Conducted clinical trials to test new treatments,studying the underlying biology of lung cancer",Scientific
+1/2/2023,13,D.Singh,Collaborated with multidisciplicary teams,Scientific
+2/2/2023,13,D.Singh,Published research findings in medical journals,Scientific
+5/3/2023,13,D.Singh,Presented at scientific conference and stayed updated on latest advancements in lung cancer research,Scientific
+1/3/2023,14,Jacob Schiller,"Shared educational graphics,videos explaining different aspects of myleoma cancer and highlighting patient stories to offer hope and inspiration on twitter",Social Media
+4/4/2023,14,Jacob Schiller,"Interacted with patient and caregivers,addressing common questions and used twitter to connect with other healthcare professionals and researchers in this field",Social Media
+6/5/2023,14,Jacob Schiller,Shared knowldege about balancing accurate information and patient confidentality in social media engagement,Social Media
+1/4/2023,15,Leigh Legros,"Diagnosed multiple myleoma of a patient evaluating patient medical history,performing physical and diagnostic tests",Medical
+6/5/2023,15,Leigh Legros,Developed personalised treatment plan,Medical
+10/6/2023,15,Leigh Legros,"Provided palliative care to manage symptoms,improve quality of life and offer emotional support to patient througout their cancer journey",Medical
+2/5/2023,16,Anibal Davis,"Investigated the underlying biology of multiple myleoma,studying the genetic and molecular factors that contribute to its development,progression and drug resistance",Scientific
+2/6/2023,16,Anibal Davis,"Designed and conducted clinical trials to test new therapies,treatment combinations and innovative approaches",Scientific
+15/7/2023,16,Anibal Davis,"Identified biomarkers that can predict disease prognosis,treatment response and potential side effects",Scientific
+20/1/2023,17,Chris Bogan,"Collaborated with pharma companies and researchers to develop new drugs specifically tarfeting multiple myleoma cells,with goal of enhacning treatment efficacy and reducing side effects",Scientific
+23/2/2023,17,Chris Bogan,Investigated novel immunotherapies such as CAR-T cell therapy and monoclonal antibodies to harness the immune system ability to target and destroy myleoma cells,Scientific
+25/3/2023,17,Chris Bogan,Utilized genomic sequencing to analyze the genetic makeup of individual myleoma patients,Scientific
+4/4/2023,18,Viennie Effertz,Studying the use of stem cell transplantation as a treatment option for multiple myleoma patients,Scientific
+17/5/2023,18,Viennie Effertz,"Researching strategies to manage treatment related side effects,improve patient quality of life and enhance supportive care measure",Scientific
+18/6/2023,18,Viennie Effertz,"Investigating methods for early detection and screening of multiple myleoma,aiming to diagnose disease at a early stage when treatment options might be more effective",Scientific
+3/4/2023,19,Shaun Brown,"Examined healthcare delivery system,access to care,and disparities in multiple myleoma treatment and outcomes",Scientific
+4/5/2023,19,Shaun Brown,"Collaborated with other researchers,clinicians and instituions to share insights and expertise to accelerate advancements in multiple myleoma research",Scientific
+5/6/2023,19,Shaun Brown,Promoted fundraising efforts for myleoma research and patient support initiatives on social media,Social Media
+2/2/2023,20,Meredith,Raised awareness about policy issues related to cancer care and advocating for improved access to treatment and support services on linkedin,Social Media
+3/3/2023,20,Meredith,"Shared updates about conferences,workshops and educational opportunities in field of myleoma oncology",Social Media
+4/4/2023,20,Meredith,"Used interctive features like polls,quizzes and surveys to engage the audience",Social Media
+1/1/2023,21,Aaron Park,Corrected myths or misinformation about myleoma and its treatment that might be circulating on social media,Social Media
+2/3/2023,21,Aaron Park,"Performed thorough evaluations,ordering diagnostic test such as blood work,bone marrow biopsies and imaging studies to diagnose multiple myleoma",Medical
+4/5/2023,21,Aaron Park,"Creating personalised treatment plans based on the individual's condition which may include chemotherapy,targeted therapy etc",Medical
+1/3/2023,22,John Doe,"Shared inspiring stories of lung cancer survivors,showcasing their joruneys",Social Media
+2/4/2023,22,John Doe,Promoting ongoing clinical trials and research studies related to lung cancer on social media,Social Media
+4/5/2023,22,John Doe,"Conducted comprehensive evaluations,including review medical history,pysical exams and ordering diagnostic test",Medical
+2/4/2023,23,Jane Lee,"Identified and studied the biomarkers that can prdict lung cancer risk,prognosis,treatment and potential side effects",Research
+2/5/2023,23,Jane Lee,"Addressed treatment related side effect and managed symptoms such as pain,fatigue of one patient",Medical
+31/6/2023,23,Jane Lee,"Shared updates about lung cancer conferences,workshops and educational opportunities to foster continous learning on twitter",Social Media
+1/1/2023,24,David Kim,Offered guidance and resources for smoking cessation to help prevent lung cancer and Improve overall lung health,Social Media
+4/2/2023,24,David Kim,Studying about advanced radiation therapy techniques such as sbrt or proton therapy to improve tumor targeting,Research
+5/4/2023,24,David Kim,"Performed surgical interventions such as tumor resection,lobecotomy or minimally invasive procedure to remove cancerous tissues",Medical
+3/5/2023,25,Dr. Enrique Vasquez,"Performed autologous stem cell transplantation,a procedure that invloves collecting and reinfusing the patient's own stem cell",Medical
+4/6/2023,25,Dr. Enrique Vasquez,Recommended and enrolled eligible patients in clinical trials,Medical
+5/7/2023,25,Dr. Enrique Vasquez,"Assesed treatment progress through follow up appointments,blood test and imaging studies",Medical
+15/3/2023,26,Dr. Katherine Baker,Connected with other healthcare professionals researchers and organizations in field of myleoma on linkedin,Social Media
+17/4/2023,26,Dr. Katherine Baker,Corrected misinformation or myths about myleoma and its treatment that might be on social media,Social Media
+19/5/2023,26,Dr. Katherine Baker,"Studying the use of stem cell transplantation as a tratment option for multiple myleoma patients,refining protocols and exploring ways to improve transplant outcomes",Research
+1/1/2023,27,Dr. Simanth Chintala,"Shared updates on latest research findings,clinical trials and treatment advancements in field of multiple myleoma",Social Media
+4/3/2023,27,Dr. Simanth Chintala,"Helped patient to manage side effects related to treatment such as fatigue,nausea,pain and infection",Medical
+15/5/2023,27,Dr. Simanth Chintala,Collaborating with pharma companies and researchers to develop new drugs specifically targeting multiple myleoma cells,Research
